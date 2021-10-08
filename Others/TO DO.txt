@@ -1,0 +1,32 @@
+Make PIR holder stronger, reduce size of PIR hole
+
+Save servo state on EEPROM (currently it always goes to Closed position during startup)
+
+Go to sleep during PIR calibration
+
+Turn off Brown-out detection?
+
+
+--------------------------------------------------------------------
+DONE:
+
+Do not use VT pin on the RF receiver
+PIR interrupt only when armed
+Put RF receiver below
+Add logo
+Add resistor to Servo power pin --> SMD or through hole?     MAX SMD Power = 0.125 W      http://www.resistorguide.com/resistor-sizes-and-packages/
+Lay down capacitors
+Holes for the pushbutton
+Add ground plane
+Check for traces at 90º
+Correct pad sizes
+Check traces' width
+
+
+DISCARDED:
+
+Control power to RF receiver
+Add Serial
+Connect mounting holes to ground
+When armed, pressing button should not trigger explosion
+Integrate header for extra trigger on the same pin as the pushbutton
