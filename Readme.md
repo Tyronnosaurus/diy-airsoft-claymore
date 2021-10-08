@@ -5,7 +5,7 @@
 This is a remote controlled, motion sensing, BB throwing airsoft Claymore that I developed, built and used on my own matches.
 I'm releasing its design on the hope that other makers can enjoy it.
 
-More info and some videos in ![this blog post](https://airsoftdiy.com/3d-printed-airsoft-claymore/).
+More info and some videos @ https://airsoftdiy.com/3d-printed-airsoft-claymore/
 
 
 ![pic1](Media/Front.jpg)
