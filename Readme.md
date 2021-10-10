@@ -49,8 +49,6 @@ The firmware is developed in C++ on the Arduino IDE.
 ## License
 Licenced under GPLv3+. Contact the author if you wish to use it under any other license.
 
-    Copyright (C) 2021  Eduard Tiron
-
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
