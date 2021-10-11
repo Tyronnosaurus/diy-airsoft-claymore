@@ -17,7 +17,7 @@ More info and some videos @ https://airsoftdiy.com/3d-printed-airsoft-claymore/
 ## Features (for users)
 - A doble mousetrap mechanism that shoots BBs forward.
 - A motion sensor that triggers when an enemy (or a friend, or you) walks in front.
-- Flashing Led and loud piezo in the victim doesn't realize what hit him.
+- Flashing Led and loud piezo in case the victim doesn't realize what hit him.
 - A button on the backside to open/close (short press) or activate/deactivate the motion sensor (long press).
 - A remote controller with these functions (note the bold initials, which correspond to the remote buttons):
 	- **A**ctivate the motion sensor.
