@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: D:\Projects\Airsoft Claymore\Claymore v3.2\Schematic & PCB\Airsoft Claymore PCB 3.2\PCB1.PcbDoc
+RuleKind=Width|RuleName=Servo negative|Scope=Board|Minimum=20.00
+RuleKind=Width|RuleName=Piezo negative|Scope=Board|Minimum=20.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Width|RuleName=Vcc|Scope=Board|Minimum=20.00
+RuleKind=Width|RuleName=GND|Scope=Board|Minimum=20.00
